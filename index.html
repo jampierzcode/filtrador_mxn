@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style_filter.css">
+    <title>filtrador</title>
+  </head>
+  <body>
+    <div class="search">
+      <div class="tipo_search">
+        <div id="compra_type" class="header_type active">Comprar</div>
+        <div id="renta_type" class="header_type">rentar</div>
+      </div>
+      <div class="date_name">
+
+          <div class="select-category" name="categorias" id="select-category">
+            <p>Departamento</p>
+            <ion-icon name="chevron-down-outline"></ion-icon>
+            <div class="list-categories">
+                <ul>
+                    <li>Departamento</li>
+                    <li>Casa</li>
+                    <li>Desarrollo</li>
+                    <li>Bodega</li>
+                </ul>
+            </div>
+        </div>
+          <input type="text" id="name-estado" placeholder="Ingresa el nombre del municipio o colonia">
+          <button class="btn_search">Buscar</button>
+        </div>
+    </div>
+    <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+    <script src="filter_plugin.js"></script>
+</body>
+</html>

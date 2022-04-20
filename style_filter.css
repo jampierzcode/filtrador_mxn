@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+width: 100%;
+height: 20vh;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: #5b5b5b;
+
+}
+html{
+    font-family: 'Hind', sans-serif;
+}
+.search{
+    width: 100%;
+    max-width: 800px;
+
+}
+.tipo_search{
+    width: max-content;
+    display: flex;
+    background-color: #e7eef0;
+    border-radius: 22px 22px 0 0;
+    overflow: hidden;
+}
+.tipo_search .header_type {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    border-left: 1px solid #fafafa;
+    transition: 0.5s;
+    cursor: pointer;
+    border-right: 1px solid 848382 ;
+    position: relative;
+}
+.tipo_search .header_type::after {
+    content: "";
+    width: 1px;
+    height: 83%;
+    position: absolute;
+    background: #848382;
+    opacity: .4;
+    top: 4px;
+    right: 0;
+}
+.tipo_search .header_type.active {
+    background-color: #fff;
+}
+.tipo_search .header_type:hover {
+    background-color: #fff;
+}
+.date_name{
+    width: 100%;
+    display: flex;
+}
+.date_name .select-category{
+    width: max-content;
+    padding: 15px 16px;
+    border: none;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    cursor: pointer;
+    border-radius: 0 0 0 22px;
+    background-color: #fff;    
+    position: relative;
+}
+.date_name .select-category>p{
+    width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.select-category.active .list-categories{
+    display: flex;
+}
+.select-category .list-categories{
+    display: none;
+    width: 100%;
+    position: absolute;
+    top: 110%;
+    left: 0;
+    background-color: #fff;
+    border-radius: 16px;
+}
+.select-category .list-categories ul{
+    max-height: 200px;
+    overflow: auto;
+}
+.select-category .list-categories ul>li{
+    list-style: none;
+    cursor: pointer;
+    padding: 12px;
+    transition: 0.3s;
+}
+.select-category .list-categories ul>li:hover{
+    color: #f50;
+}
+.date_name .select-category::after{
+    content: "";
+    width: 1px;
+    height: 83%;
+    position: absolute;
+    background: #848382;
+    opacity: .4;
+    top: 4px;
+    right: 0;
+}
+.date_name .select-category>ion-icon{
+    opacity: 0.4;
+    display: block;
+}
+.date_name .select-category>ion-icon:hover{
+    opacity: 1;
+}
+.date_name>input{
+    padding: 12px 24px;
+    border: none;
+    width: 500px;
+    font-family: 'Hind', sans-serif;
+}
+.date_name>input:focus{
+    outline: none;
+}
+.date_name>.btn_search{
+    width: 80px;
+    padding: 12px 24px;
+    color: #fff;
+    background-color: #f50!important;
+    border-radius: 0 22px 22px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-family: 'Hind', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    border: none;
+}

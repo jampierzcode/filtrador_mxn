@@ -1,0 +1,2809 @@
+[
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Polanco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Lomas de Chapultepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"An�huac I Secci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Bosque de las Lomas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Anzures"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"10 de Abril"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"16 de Septiembre"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"5 de Mayo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Agricultura"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Ahuehuetes Anahuac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Ampliaci�n Daniel Garza"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Ampliaci�n Granada"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Ampliaci�n Popo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Ampliaci�n Torre Blanca"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Am�rica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"An�huac II Secci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Argentina Antigua"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Argentina Poniente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Bosques de Chapultepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Campo Militar 1"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Colgate Palmolive S.A."},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Compa��a de Luz y Fuerza del Centro S.A."}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Cuauht�moc Pensil"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Daniel Garza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Delegaci�n Pol�tica Miguel Hidalgo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Deportivo Pensil"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Dir. Gral. de Talleres de Impresi�n de Estampillas y Valores"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Dos Lagos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Escand�n I Secci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Escand�n II Secci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Francisco I Madero"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Granada"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Guardias Presidenciales"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Hermanos Serd�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Hospital Central Militar"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Huichapan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Ignacio Manuel Altamirano"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Irrigaci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Lago Norte"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Lago Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Legaria"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Loma Hermosa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Lomas Altas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Lomas de Bezares"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Lomas de Reforma"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Lomas de Sotelo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Los Manzanos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"L�zaro Tata"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Manuel Avila Camacho"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Mariano Escobedo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Modelo Pensil"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Molino del Rey"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"M�xico Nuevo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"M�xico Tacuba"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Nextitla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Observatorio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Pensil Norte"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Pensil Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Peralitos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Periodista"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Petr�leos Mexicanos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Plaza Inverlat"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Plutarco El�as Calles"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Polanco I Secci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Polanco II Secci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Polanco III Secci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Polanco IV Secci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Polanco V Secci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Popo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Popotla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Real de las Lomas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Refiner�a 18 de Marzo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Reforma Pensil"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Reforma Social"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Residencia Oficial de los Pinos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Residencial Militar"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"San Diego Ocoyoacac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"San Joaqu�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"San Juanico"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"San Lorenzo Tlaltenango"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"San Miguel Chapultepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Santo Tom�s"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Secretaria de la Defensa Nacional"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Secretaria de Turismo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Seguros Monterrey New York Life S.A. de C.V."},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Selecciones del Readers Digest de M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Tacuba"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Tacubaya"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Tlaxpana"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Torre Blanca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Un Hogar Para Nosotros"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Unidad Legaria IMSS"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Ventura P�rez de Alva"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Miguel Hidalgo","COLONIAS":"Ver�nica Anzures"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Del Valle Centro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Narvarte Poniente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"N�poles"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Portales"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Del Valle Norte"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"8 de Agosto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Acacias"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Actipan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Albert"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Ampliaci�n N�poles"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Am�ricas Unidas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Atenor Salas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Bancomer S.A."},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"CAmara Nacional de la Industria de Transformaci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"CAmara Nacional de la Industria del Hierro y Acero"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Centro Hospitalario 20 de Noviembre"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Centro Urbano Presidente Miguel Alem�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Ciudad de los Deportes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Consejo Nacional de La Ciencia y Tecnolog�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Cr�dito Constructor"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Del Carmen"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Del Lago"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Del Valle Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Delegaci�n Pol�tica Benito Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Ermita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Esperanza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Extremadura Insurgentes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"General Pedro Mar�a Anaya"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Independencia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Insurgentes Mixcoac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Insurgentes San Borja"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Iztaccihuatl"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Josefa Ortiz de Dom�nguez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"La Interamericana Compa��a de Seguros S.A."}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Letr�n Valle"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Merced G�mez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Miguel Alem�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Miravalle"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Mixcoac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Moderna"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Modulo Social las Flores"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Narvarte Oriente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Nativitas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Ni�os H�roes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Nochebuena"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Partido Acci�n Nacional"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Periodista"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Piedad Narvarte"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Portales Oriente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Portales Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Postal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Procuradur�a Federal Fiscal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Residencial Emperadores"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"San Jos� Insurgentes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"San Juan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"San Pedro de los Pinos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"San Sim�n Ticumac"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Santa Cruz Atoyac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Santa Mar�a Nonoalco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Secretaria de Comunicaciones y Transportes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"The Sidney Ross Co S.A."},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Tlacoquemecatl"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Unidad de Pagos de La SCT"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Unidad Narvarte IMSS"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Vertiz Narvarte"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Villa de Cortes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"World Trade Center Ciudad de M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Xoco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"Zacahuitzco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Benito juarez","COLONIAS":"�lamos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Santa Fe"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Jardines del Pedregal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Olivar de los Padres"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Las �guilas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Los Alpes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"19 de Mayo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"1a Ampliaci�n Presidentes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"1a Victoria"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"2a Ampliaci�n Presidentes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"2a Del Moral del Pueblo de Tetelpan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"2a Secci�n Ca�ada"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"2o Reacomodo Tlacuitlapa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"8 de Agosto"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Abeto"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Abraham M. Gonz�lez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Acueducto"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Acuilotla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Alcantarilla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Alfalfar"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Alfonso XIII"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Altavista"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ampliaci�n Acueducto"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ampliaci�n Alpes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ampliaci�n El Capulin"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ampliaci�n Estado de Hidalgo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ampliaci�n Jalalpa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ampliaci�n La Cebada"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ampliaci�n La Mexicana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ampliaci�n las �guilas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ampliaci�n Los Pirules"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ampliaci�n Piloto Adolfo L�pez Mateos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ampliaci�n Tepeaca"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ampliaci�n Tlacuitlapa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Antonio Carrillo Flores"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Arcos Centenario"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Arturo Gamiz"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Arturo Mart�nez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Arvide"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Atlamaya"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ave Real"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Axotla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Balcones de Cehuayo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Barrio Norte"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Batall�n de San Patricio"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Bejero del Pueblo Santa Fe"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Bellavista"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Bel�m de las Flores"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Bel�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Bonanza"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Bosque"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Bosques de Tarango"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Calzada Jalalpa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Campestre"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Campo de Tiro los Gamitos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Canutillo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Carlos A. Madrazo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Carola"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ca�ada"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ca�ada del Olivar"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Cehuaya"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Chimalistac"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Colina del Sur"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Colinas de Tarango"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Cooperativa Uni�n Olivos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Corpus Christy"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Cove"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Cristo Rey"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Cuevitas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Delegaci�n Pol�tica Alvaro Obreg�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Desarrollo Urbano"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Dos R�os del Pueblo Santa Luc�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Arbol"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Capul�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Cuernito"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Encino del Pueblo Tetelpan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Mirador del Pueblo Tetelpan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Piru"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Piru 2a Ampliaci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Pirul"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Pocito"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Politoco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Rinc�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Rodeo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Ruedo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"El Tejocote"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ermita Tizap�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Estado de Hidalgo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ex-Hacienda de Guadalupe Chimalistac"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ex-Hacienda de Tarango"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Flor de Mar�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Florida"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Francisco Villa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Galeana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Garcimarrero"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Golondrinas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Guadalupe Inn"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Heron Proal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Hidalgo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Hogar y Redenci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Hueytlale"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"INFONAVIT"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Isidro Fabela"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Jalalpa El Grande"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Jalalpa Tepito"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Jos� Mar�a Pino Su�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Angostura"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Ara�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Cascada"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Conchita"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Estrella"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Herradura"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Huerta"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Joya"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Joyita del Pueblo Tetelpan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Martinica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Mexicana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Milagrosa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Otra Banda"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Palmita"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Pe�ita del Pueblo Tetelpan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"La Presa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ladera"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ladera Chica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Las Am�ricas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Las Haciendas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Las Lomas de los �ngeles"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Liberaci�n Proletaria"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Liberales de 1857"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Llano Redondo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas Axomiatla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de Becerra"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de Capula"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de Chamontoya"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de Guadalupe"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de la Hera"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de las Aguilas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de Nuevo M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de Plateros"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de Puerta Grande"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de San Angel Inn"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de Santa Fe"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de Santo Domingo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de Tarango"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Lomas de Tarango Reacomodo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Loreto"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Los Cedros"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Los Gamitos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Los Juristas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Margarita Maza de Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Maria G. de Garc�a Ruiz"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Merced G�mez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Miguel Gaona Armenta"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Miguel Hidalgo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Milpa los Cerros"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Minas Cristo Rey"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Minas de Cristo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Misiones de Tarango"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Molino de Rosas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Molino de Santo Domingo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"M�rtires de Tacubaya"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Nelli Campo Bello"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ocotillos del Pueblo Tetelpan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Olivar del Conde"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Palmas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Palmas Axotitla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Paraje del Caballito"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Para�so"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Paseo de las Lomas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Piloto Adolfo L�pez Mateos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Piru Santa Lucia"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Ponciano Arriaga"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Preconcreto"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Presidentes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Profesor J. Arturo L�pez Mart�nez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Progreso Tizap�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Providencia"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Pueblo Nuevo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Puente Colorado"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Puerta Grande"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Punta de Cehuaya"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"P�lvora"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Rancho Anzaldo y Contreras"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Rancho Casa Blanca"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Rancho del Carmen del Pueblo San Bartolo Ameyalco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Reacomodo El Cuernito"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Reacomodo Pino Su�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Reacomodo Valent�n G�mez Far�as"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Real de Tarango"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Real del Monte"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Rinconada de Tarango"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Rinconada Las Cuevitas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Rinc�n de La Bolsa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Sacramento"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"San Agust�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"San Angel Inn"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"San Bartolo Ameyalco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"San Clemente Norte"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"San Clemente Sur"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"San Gabriel"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"San Jer�nimo Aculco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"San Jos� del Olivar"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"San Pedro de los Pinos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"San �ngel"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Santa Fe Centro"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Santa Fe IMSS"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Santa Fe La Loma"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Santa Fe Pe�a Blanca"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Santa Fe Tlayapaca"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Santa Lucia"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Santa Luc�a Chantepec"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Santa Mar�a Nonoalco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Santa Rosa Xochiac"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Sears Roebuck"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Secretaria de Contralor�a y Desarrollo Administrativo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Secretaria de la Policia Federal Preventiva"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Sociedad Cooperativa Uni�n Poder Popular"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Tecalcapa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Tecolalco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Tepeaca"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Tepopotla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Tetelpan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Tetlalpan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Tizampampano"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Tizapan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Tlacopac"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Tlacoyaque"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Tlacuitlapa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Tlapechico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Tolteca"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Torres de Potrero"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Torres de San Pedro"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Unidad Popular Emiliano Zapata"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Universal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Villa Progresista"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Villa Solidaridad"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Villa Verd�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Alvaro Obreg�n","COLONIAS":"Zen�n Delgado"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Roma Norte"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Cuauht�moc"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Roma Sur"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Condesa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Algar�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Ampliaci�n Asturias"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Asturias"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Atlampa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Banco de M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Banco Internacional S.A. de CV"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Banorte"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Buenavista"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Buenos Aires"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"CAmara Nacional de Aerotransportes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"CAmara Nacional de Comercio de la Ciudad de M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"CAmara Nacional de la Industria CinematogrAfica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"CAmara Nacional de La Industria de La Televisi�n Por Cable"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"CAmara Nacional de Transportes y Comunicaci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Carnet Promoci�n y Operaci�n S.A. de CV"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Centro"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Centro (Area 4)"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Centro Medico Siglo XXI"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Centro Urbano Benito Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Citibank S.A."}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Comisi�n Federal de Electricidad"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Confederaci�n de CAmaras Industriales de los EUM"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Confederaci�n de CAmaras Nacionales de Comercio"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Delegaci�n Pol�tica Cuauht�moc"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Departamento del Distrito Federal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Direcci�n General de Recaudaci�n de la SHCP"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Doctores"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Esperanza"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Felipe Pescador"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Guerrero"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"H CAmara de Senadores"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Hemphill Schools"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Hip�dromo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Hip�dromo Condesa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Hospital General de M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"IMSS"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Instituto Maurer"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Instituto Mexicano de Comercio Exterior"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Inverlat"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"ISSSTE"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Loter�a Nacional Para La Asistencia Publica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Maza"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Morelos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"National Schools"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Nonoalco Tlatelolco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Obrera"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Partido de La Revoluci�n DemocrAtica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Partido Popular Socialista"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Partido Revolucionario Institucional"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Partido Socialista de los Trabajadores"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Paulino Navarro"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Peralvillo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Plan Tepito"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Presidencia de La Rep�blica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Procuradur�a General de La Rep�blica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Roma"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"San Rafael"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"San Sim�n Tolnahuac"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Santa Maria Insurgentes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Santa Mar�a la Ribera"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Secretaria de Econom�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Secretaria de Educaci�n Publica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Secretaria de Gobernaci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Secretaria de Hacienda y Cr�dito Publico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Secretaria de Relaciones Exteriores"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Secretaria de Salud"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Secretaria de Transportes y Vialidad"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Suprema Corte de Justicia"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Tabacalera"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Televisa S.A."}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Tel�fonos de M�xico S.A. de CV"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Tesorer�a del Distrito Federal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Torre Latinoamericana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Tr�nsito"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Unidad Soldominio"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Valle G�mez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuauht�moc","COLONIAS":"Vista Alegre"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Bosques de las Lomas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Santa Fe Cuajimalpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Contadero"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Cuajimalpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Lomas de Vista Hermosa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"1� de Mayo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Abdias Garcia Soto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Abd�as Garc�a Soto"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Adolfo L�pez Mateos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Agua Bendita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Ahuatenco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Amado Nervo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Ampliaci�n el Yaqui"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Ampliaci�n Memetla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Campestre Palo Alto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Club de Golf Bosques"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Club de Golf Bosques de Santa Fe"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Cooperativa Palo Alto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Cruz Blanca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Cruz Manca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Cumbres Reforma"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Delegaci�n Pol�tica Cuajimalpa de Morelos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"El Molinito"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"El Molino"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"El Tianguillo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"El Yaqui"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"El �bano"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Granjas Navidad"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Granjas Palo Alto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Jardines de la Palma"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Jes�s del Monte"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Jos� Maria Castorena"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"La Campi�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"La Manzanita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"La Pila"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"La Venta"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Las Lajas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Las Maromas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Las Tinajas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Locaxco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Loma del Padre"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Lomas de Memetla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Lomas de San Pedro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Lomas del Chamizal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Lomas Ocote"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Manzanastitla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Memetla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Nueva Rosita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Prados de La Monta�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Rinc�n de las Lomas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"San Jos� de los Cedros"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"San Lorenzo Acopilco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"San Mateo Tlaltenango"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"San Pablo Chimalpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"San Pedro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Santa Rosa Xochiac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Tepetongo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Villas de Cuajimalpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Villas Marbella"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Xalpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Cuajimalpa de Morelos","COLONIAS":"Zentlapatl"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Nueva Santa Maria"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Claver�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Del Gas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Industrial Vallejo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Pedro Xalpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Aguilera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Aldana"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Ampliaci�n Cosmopolita"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Ampliaci�n Del Gas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Ampliaci�n Petrolera"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Ampliaci�n San Pedro Xalpa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Angel Zimbron"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Arenal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Axolahua"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Azcapotzalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Azcapotzalco Pasteros"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Campo Encantado"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Centro de Azcapotzalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Cobre de M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Coltongo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Cosmopolita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"CROC 6 Olimpia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Del Maestro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Del Recreo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Delegaci�n Pol�tica Azcapotzalco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Ecol�gica Novedades Impacto"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"El Jag�ey"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"El Rosario"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Estaci�n Pantaco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Euzkadi"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Ex-Hacienda El Rosario"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Ferrer�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Francisco Villa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Granjas Pantaco Campamento Ferrocarrilero"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Hogares Ferrocarrileros"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Huautla de las Salinas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Ignacio Allende"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Industrial San Antonio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Jardines de CeylAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Jard�n Azpeitia"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Kervin"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"La Escuadra"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"La Preciosa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"La Providencia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"La Raza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Las Armas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Las Salinas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Las Trancas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Liberaci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Libertad"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Los Oyameles"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Los Reyes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"L�zaro C�rdenas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Manuel Rivera Anaya CROC 1"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Miguel Hidalgo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Miguel Lerdo de Tejada"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Monte Alto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Nextengo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Nueva El Rosario"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Nueva Espa�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Nuevo Barrio San Rafael"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Obrero Popular"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Palestina"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Pantaco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Pasteros"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Patrimonio Familiar"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Petrolera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Pitolaca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Plenitud"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Porvenir"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Potrero del Llano"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Prados del Rosario"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Presidente Madero"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Pro-Hogar"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Providencia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Reynosa Tamaulipas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Rinconada el Olivar"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Rosendo Salazar"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Alvaro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Andr�s"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Antonio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Bartolo Cahualtongo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Bernab�"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Francisco Tetecala"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Francisco Xocotitla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Isidro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Juan Tlihuaca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Marcos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Mart�n Xochinahuac"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Mateo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Miguel Amantla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Pablo Xalpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Rafael"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Salvador Xochimanca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"San Sebasti�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Santa Apolonia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Santa B�rbara"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Santa Catarina"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Santa Cruz Acayucan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Santa Cruz de las Salinas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Santa Ines"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Santa Lucia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Santa Maria Malinalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Santiago Ahuizotla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Santo Domingo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Santo Tomas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Sector Naval"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Sindicato Mexicano de Electricistas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Tepantongo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Tezozomoc"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Ticoman"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Tierra Nueva"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Tlatilco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Toronja"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Trabajadores de Hierro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Trabajadores de PEMEX"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Un Hogar Para Cada Trabajador"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Unidad Cuitlahuac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Victoria de las Democracias"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Villas de Azcapotzalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Azcapotzalco","COLONIAS":"Wake"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Paseos de Taxque�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Campestre Churubusco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Del Carmen"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Ex-Hacienda Coapa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pedregal de Carrasco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"20 de Agosto"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Acasulco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Adolfo Ruiz Cortines"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Ajusco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Ajusco Montserrat"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Alianza Popular Revolucionaria"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Almacenes Generales de la S.C.T."}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Altillo Universidad"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"AtlAntida"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Avante"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Barrio del Ni�o Jes�s"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Barrio La Concepci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Barrio Oxtopulco Universidad"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Barrio San Lucas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Barrio Santa Catarina"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Bosques de Tetlameya"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Cafetales"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"CAmara Nacional de la Industria Editorial"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Campestre Coyoac�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Cantil del Pedregal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Carmen Serd�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Churubusco Country Club"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Ciudad Jard�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Copilco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Copilco El Alto"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Copilco El Bajo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Copilco Universidad"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Copilco Universidad ISSSTE"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Country Club"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Cuadrante de San Francisco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Culhuacan CTM"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Delegaci�n Pol�tica Coyoac�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Dr. Pedro R Bernab�"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Educaci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"El Caracol"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"El Centinela"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"El Hueso INFONAVIT"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"El Mirador"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"El Parque de Coyoac�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"El Reloj"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"El Rosario"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"El Rosedal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Emiliano Zapata"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Emiliano Zapata Fraccionamiento Popular"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Empleados Federales"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Ermita Churubusco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Espartaco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Ex-Ejido de San Francisco CulhuacAn"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Ex-Ejido de San Pablo Tepetlapa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Ex-Ejido de Santa Ursula Coapa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Fort�n de Chimalistac"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Fuentes de Coyoac�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Haciendas de Coyoac�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Hermosillo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Huayamilpas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Insurgentes Cuicuilco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Insurgentes San Angel"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Integraci�n Latinoamericana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"ISSSTE"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Jardines de Coyoac�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Jardines del Pedregal de San Angel"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Joyas del Pedregal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"La Otra Banda"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"La Virgen"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Las Campanas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Los Cedros"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Los Cipreses"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Los Ciruelos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Los Fresnos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Los Girasoles"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Los Olivos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Los Robles"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Los Sauces"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Mariana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Media Luna"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Modulo Social ImAn"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Monte de Piedad"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Montserrat"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Multifamiliar Para Maestros"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Nueva Diaz Ordaz"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Ol�mpica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pacifico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Parque San Andr�s"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pedregal de Coyoac�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pedregal de La Zorra"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pedregal de Monserrat"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pedregal de San Francisco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pedregal de Santa Ursula"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pedregal de Santo Domingo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pedregal del Maurel"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pedregal del Sur"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Petrolera Taxque�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Prado Churubusco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Prados de Coyoac�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Presidentes Ejidales"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Presidentes Ejidales 1a Secci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Presidentes Ejidales 2a Secci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pueblo de los Reyes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pueblo de San Pablo Tepetlapa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pueblo de Santa Ursula Coapa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Pueblo La Candelaria"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Residencial la Cantera"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Rinconada de los Reyes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Rinconada las Playas INFONAVIT"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Rinc�n de Guanajuato"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Romero de Terreros"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Rosedal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"San Diego Churubusco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"San Francisco CulhuacAn Barrio"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"San Mateo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Santa Cecilia"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Santa Martha del Sur Quetzalcoatl"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Secretaria de Marina Armada de M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Sector Marina"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"STUNAM"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Taxque�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Tlalpan FOVISSSTE"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Torres de Chimalistac"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Torres del Maurel"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Universidad Nacional Aut�noma de M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Viejo Ejido de Santa Ursula Coapa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Villa Coyoac�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Villa de San Francisco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Villa Panamericana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Villa Quietud"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Villas Copilco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Villas del ImAn"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Villas del Pedregal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Vistas del Maurel"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Viveros de Coyoac�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Xotepingo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Xotepingo 101"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Coyoac�n","COLONIAS":"Zapata"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Lindavista"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"San Juan de Arag�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Vallejo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Estrella"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Tepeyac Insurgentes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"15 de Agosto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"25 de Julio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"6 de Junio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"7 de Noviembre"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Acueducto de Guadalupe"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Acueducto de Ticoman 1044"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ahuehuetes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n Arboledas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n Benito Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n Casas Alem�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n Castillo Grande"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n Chalma de Guadalupe"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n Cocoyotes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n Emiliano Zapata"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n Gabriel HernAndez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n Guadalupe Proletaria"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n Malacates"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n M�rtires de R�o Blanco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n Panamericana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n Progreso Nacional"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n Providencia"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ampliaci�n San Juan de Arag�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Arag�n FOVISSSTE"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Arag�n InguarAn"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Arag�n la Villa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Arboledas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Arroyo de Guadalupe"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Barrio Candelaria TicomAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Belisario Dom�nguez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Benito Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Bondojito"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"C.T.M. Arag�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"C.T.M. Atzacoalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"C.T.M. El Risco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Campestre Arag�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Capultitlan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Castillo Chico"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Castillo Grande"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Chalma de Guadalupe"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Churubusco Tepeyac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Cien Metros"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Cocoyotes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Compositores Mexicanos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Constituci�n de La Rep�blica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Cuautepec Barrio Alto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Cuautepec de Madero"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Cuchilla del Tesoro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Cuchilla La Joya"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Defensores de La Rep�blica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Del Bosque"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Del Carmen"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Del Obrero"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Delegaci�n Pol�tica Gustavo A Madero"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Dinamita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"DM Nacional"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Eduardo Molina"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"El Arbolillo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"El Coyol"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"El Milagro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"El Olivo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"El Tepetatal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Emiliano Zapata"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Escuadr�n 201 INFONAVIT"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Estanzuela"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ex Ejido San Juan de Arag�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ex Escuela de Tiro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Faja de Oro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Fernando Casas Alem�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ferrocarrilera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Forestal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Frente Cuchilla del Tesoro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Gabriel HernAndez"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"General Felipe Berriozabal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Gertrudiz S�nchez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Graciano S�nchez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Granjas Modernas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Guadalupe"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Guadalupe Insurgentes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Guadalupe Proletaria"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Guadalupe Tepeyac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Guadalupe TicomAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Guadalupe Victoria"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Guadalupe Victoria Cuautepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Hayde Sol�s C"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"H�roe de Nacozari"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"H�roes de Cerro Prieto"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"H�roes de Chapultepec"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Indeco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Industrial"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Instituto Polit�cnico Nacional"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Jorge Negrete"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Jos� Maria Morelos y Pav�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Juan de Dios BAtiz"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Juan Gonz�lez Romero"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Juventino Rosas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Casilda"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Cruz"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Cuchilla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Escalera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Esmeralda"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Joya"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Joyita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Laguna TicomAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Leng�eta"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Malinche"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Pastora"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Patera Vallejo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Pradera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"La Pur�sima TicomAn"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Lasalle"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"LI Legislatura"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Lindavista Norte"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Lindavista Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Lindavista Vallejo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Loma La Palma"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Lomas de Cuautepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Lomas de San Juan Ixhuatepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Luis Donaldo Colosio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Magdalena de las Salinas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Malacates"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Mart�n Carrera"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Mat�as Romero"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Maximino Avila Camacho"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Modulo Social FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Montevideo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"M�rtires de R�o Blanco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"M�xico Ixapan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Narciso Bassols"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Nueva Atzacoalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Nueva Industrial Vallejo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Nueva Tenochtitlan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Nueva Vallejo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Palmatitla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Panamericana"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Parque Metropolitano"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"PEMEX Lindavista"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Planetario Lindavista"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Polit�cnico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Pradera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Prados de Cuautepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Progreso Nacional"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Providencia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Reclusorio Norte"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Residencial Acueducto de Guadalupe"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Residencial La Escalera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Residencial Oriente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Residencial Zacatenco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Revoluci�n IMSS"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Rosas del Tepeyac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"S C T Vallejo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Salvador D�az Mir�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"San Antonio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"San Bartolo Atepehuacan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"San Felipe de Jes�s"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"San Jos� de La Escalera"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"San Jos� TicomAn"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"San Juan y Guadalupe TicomAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"San Miguel"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"San Pedro El Chico"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"San Pedro Zacatenco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"San Rafael TicomAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Santa Isabel Tola"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Santa Maria Ticoman"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Santa Rosa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Santiago Atepetlac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Santiago Atzacoalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Siete Maravillas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Solidaridad Nacional"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Sutic Vallejo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Tablas de San Agust�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Tablas de Santa Teresa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Tepetates"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Ticoman"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Tlacamaca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Tlaca�lel"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Tlalpexco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Tonaca CoutitlAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Torres Lindavista"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Tres Estrellas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Triunfo de La Rep�blica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Valle de Madero"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Valle del Tepeyac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Vallejo Poniente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Vasco de Quiroga"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Villa de Arag�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Villa Gustavo A. Madero"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Villa Hermosa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Vista Hermosa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"xito Ense�anza y Triunfo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Zona Escolar"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Zona Escolar Oriente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Gustavo A. Madero","COLONIAS":"Zona Militar"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Agr�cola Pantitlan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Agr�cola Oriental"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Granjas M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Militar Marte"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Viaducto Piedad"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"5 de Diciembre FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Agua Caliente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Ampliaci�n Gabriel Ramos MillAn"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Belisario Dom�nguez INFONAVIT"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Campamento 2 de Octubre"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Carlos Zapata Vela"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Cuchilla Agr�cola Oriental"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Delegaci�n Pol�tica Iztacalco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"El Rodeo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Ex-Ejido de La Magdalena Mixiuhca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Flores Mag�n INFONAVIT"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Fraccionamiento Coyuya"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Gabriel Ramos MillAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Gabriel Ramos Millan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Granjas Princess"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Hermanos Blancas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"INFONAVIT Iztacalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"INPI Picos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Jardines Tecma"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Juventino Rosas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"La Asunci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"La Cruz"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Las Rosas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Los Picos de Iztacalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Los Reyes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Maestros de Iztacalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Mario Moreno"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Mercados"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Mujeres Ilustres"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"M�rtires de Tlatelolco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Nueva Santa Anita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Reforma Iztaccihuatl Norte"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Reforma Iztaccihuatl Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Residencial Zaragoza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"San Francisco Xicaltongo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"San Miguel"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"San Pedro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Santa Anita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Santa Cruz"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Santiago"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Santiago Norte"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Santiago Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Sur 12C FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Sur 20 INFONAVIT"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Talleres"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Tlazintla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztacalco","COLONIAS":"Zapotla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Lomas Estrella"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Santa Martha Acatitla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Cerro de La Estrella"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Sif�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Nicol�s Tolentino"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"12 de Diciembre"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"22 CTM"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"6 de Octubre"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Aculco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Albarrada"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Alborada"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Alcanfores"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Allapetlalli"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Alvaro Obreg�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ampliaci�n Bellavista"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ampliaci�n El Santuario"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ampliaci�n El Triunfo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ampliaci�n Emiliano Zapata"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ampliaci�n Los Reyes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ampliaci�n Paraje San Juan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ampliaci�n Ricardo Flores Mag�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ampliaci�n San Miguel"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ampliaci�n Sinatel"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ampliaci�n Veracruzana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Anastasio Bustamante"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Apatlaco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Arboledas Zafiro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Art�culo 4�. Constitucional"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"A�o de Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Banjidal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Barranca de Guadalupe"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Barrio San Antonio CulhuacAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Barrio Tula"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Bellavista"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Benito Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Bertha Von Bloumer"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Buenavista"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Cabeza de Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Cacama"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Campestre Estrella"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Campestre Potrero"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Cananea"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Carlos Hank Gonzalez"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Carlos Jonguitud Barrios"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Carmen Serd�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Carolinas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Casa Blanca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Cedros"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Celoalliotli"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Central de Abasto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Chinampac de Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Citlalli"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Colonial Iztapalapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Complejo Industrial Ecol�gico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Consejo Agrarista Mexicano"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Constituci�n de 1917"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Cooperativa Biatlon"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Cooperativa de Trabajadores Sector Pesca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Cooperativa Tlaltenco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Cuartos de Tlatelolco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Cuauht�moc"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Cuchilla del Moral"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Cuitlahuac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Degollado"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Degollado - Mexicatlalli"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Delegaci�n Pol�tica Iztapalapa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Desarrollo Urbano Quetzalcoatl"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Diasa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Dr. Alfonso Ortiz Tirado"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ejercito de Agua Prieta"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ejercito de Oriente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ejercito de Oriente Zona Pe�on"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Arbol FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Ed�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El GavilAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Manto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Mirador"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Molino"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Molino Tezonco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Para�so"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Prado"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Reto�o"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Rodeo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Rosario"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Santuario"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Tesoro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Triangulo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Triunfo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Tule"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"El Vergel"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ermita Iztapalapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ermita Zaragoza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Escuadr�n 201"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Espa�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Estado de Veracruz"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Estrella CulhuacAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Estrella del Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Eva SAmano de L�pez Mateos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Fase II"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Fividesu Avenida 3"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Francisco Villa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Fuego Nuevo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Fuentes de Zaragoza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Fuerte de Loreto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Gama GavilAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Granjas de San Antonio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Granjas Esmeralda"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Granjas Estrella"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Guadalupe"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Guadalupe del Moral"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Guelatao Benito Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Hacienda las Flores"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Hidalgo y Mina"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Huasipungo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"H�roes de Churubusco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ignacio Zaragoza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"INFONAVIT"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ing. Zaragoza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Insurgentes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ixtlahuacan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"IztlahuacAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Jacarandas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Jardines de Churubusco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Jardines de San Lorenzo Tezonco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Jes�s Vela"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Jos� L�pez Portillo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Jos� Maria Morelos y Pav�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Juan Escutia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Justo Sierra"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"La Asunci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"La Colmena"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"La Concordia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"La Era"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"La Esperanza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"La Loma"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"La Magueyera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"La Mora Grande"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"La Planta"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"La Polvorilla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"La Regadera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"La Valenciana"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"La Viga"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Las Am�ricas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Las Pe�as"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Las Rosas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Las Torres"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Leyes de Reforma"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Lienzo Charro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Lirios FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Lomas de la Estancia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Lomas de San Lorenzo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Lomas de Santa Cruz"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Lomas de Zaragoza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Lomas El Manto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Lomas Estrella FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Los Angeles"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Los Angeles Apanoaya"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Los Cedros"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Los Cipreses"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Los Mirasoles"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Los Picos VI-B"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Los Reyes CulhuacAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Luis Donaldo Colosio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Magdalena Atlazolpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Margarita Maza de Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Matamoros"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Mexicaltzingo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Miguel de La Madrid Hurtado"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Militar Sedena"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Minerva"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Miravalles"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Mixcoatl"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Monte Alban"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Moras Primavera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Morelos II"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Moyocoyani"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Najalti"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Naranjos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Norma FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Nueva Generaci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Nueva Rosita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ojito de Agua"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Opus 3"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"P.R.I."},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Palmitas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Paraje San Juan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Paraje San Juan Cerro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Paraje Zacatepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Parque Nacional Cerro de la Estrella"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Paseos de Churubusco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Paseos de Churubusco FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Penitenciaria Santa Martha Acatitla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Pe��n Viejo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Plan de Iguala"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Plaza Estrella I"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Plaza Estrella II"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Plutarco El�as Calles"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Popular Oriente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Prados Iztapalapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Predio el Brillante"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Predio la Cuchilla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Predio Maravillas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Predio Nautla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Predio San Pedro y San Pablo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Predio San Rafael"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Predio Xaltepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Presidentes de M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Presidentes y Plaza de La Constituci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Progresista"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Progreso del Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Pueblo CulhuacAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Puente Blanco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Pur�sima"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Pur�sima Atlazolpa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Real del Moral"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Real del Moral INFONAVIT"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Reclusorio Oriente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Reforma Educativa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Reforma Garay INFONAVIT"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Reforma Pol�tica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Renovaci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Residencial del Valle"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Residencial Venecia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Ricardo Flores Magon"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Rinconada del Molino"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Rinconada Estrella"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Rotaria"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Sabadell Bellavista"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Andr�s Tetepilco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Andr�s Tomatl�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Antonio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Antonio CulhuacAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Francisco INFONAVIT"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Ignacio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Jos�"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Jos� Aculco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Jos� Buenavista"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Juan Estrella"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Juan FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Juan Joya"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Juan Xalpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Juanico Nextipac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Lorenzo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Lorenzo Tezonco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Lorenzo Tezonco FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Lorenzo Xicotencatl"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Lucas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Marcos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Miguel"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Miguel Teotongo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Pablo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Pedro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Sebasti�n Tecoloxtitla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"San Sim�n CulhuacAn"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Santa B�rbara"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Santa Cruz Meyehualco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Santa Isabel Industrial"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Santa Maria Aztahuacan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Santa Maria del Monte"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Santa Martha Acatitla Norte"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Santa Martha Acatitla Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Santa Mar�a Aztahuacan Ampliaci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Santa Mar�a Tomatl�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Santiago Acahualtepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Santiago Acahualtepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Secretaria de la Reforma Agraria"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Sector Popular"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Sideral"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Sierra del Valle"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Sinatel"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Solidaridad"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"STUNAM"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Tejocotes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Tenorios"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Tepalcates"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Triangulo de las Agujas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Unidad Ej�rcito Constitucionalista"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Unidad Modelo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Unidad Vicente Guerrero"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"USCOVI"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Valle de Luces"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Valle de San Lorenzo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Valle del Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Vikingos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Villas Estrella"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Villas San Diego"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Violeta"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Viva Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Voceadores de M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Xalpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Xopa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Iztapalapa","COLONIAS":"Zacahuitzco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"San Jer�nimo L�dice"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"San Jer�nimo Aculco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Lomas Quebradas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"San Nicol�s Totolapan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Barrio San Francisco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Ampliaci�n Lomas de San Bernab�"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Ampliaci�n Potrerillo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Atacaxco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Barranca Seca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Barros Sierra"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Bosques de La Magdalena"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Crescencio Ju�rez Chavira"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Cuauht�moc"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Delegaci�n Pol�tica Magdalena Contreras"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"El Ermita�o"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"El Maestro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"El Oasis de San Bernab�"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"El Ocotal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"El Rosal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"El Tanque"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"El Toro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Huayatla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"H�roes de Padierna"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"La Carbonera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"La Concepci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"La Cruz"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"La Guadalupe"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"La Magdalena"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"La Malinche"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"La Presilla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Las Calles"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Las Cruces"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Las Huertas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Lomas de San Bernab�"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Los Capulines"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Los Padres"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Palmas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Pedregal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Pedregal 2"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Plazuela del Pedregal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Potrerillo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Pueblo Nuevo Alto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Pueblo Nuevo Bajo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Puente Sierra"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Rancho Pachita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Residencial San Carlos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"San Bartolo Ameyalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"San Bernab� Ocotepec"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"San Francisco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Santa Teresa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Tierra Colorada"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Tierra Unida"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Unidad Independencia IMSS"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"La Magdalena Contreras","COLONIAS":"Vista Hermosa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"San Salvador Cuauhtenco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"Villa Milpa Alta"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"San Pedro Atocpan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"San Bartolom� Xicomulco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"San Pablo Oztotepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"Centro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"Chalmita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"Cruztitla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"Delegaci�n Pol�tica Milpa Alta"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"Emiliano Zapata"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"La Concepci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"La Conchita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"La Lupita Teticpac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"La Lupita Xolco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"San Agustin Ohtenco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"San Antonio Tecomitl"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"San Francisco Tecoxpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"San Jer�nimo Miacatl�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"San Juan Tepenahuac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"San Lorenzo Tlacoyucan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"Santa Ana Tlacotenco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Milpa Alta","COLONIAS":"Villa Milpa Alta Centro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Jardines en la Monta�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Fuentes del Pedregal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Granjas Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"H�roes de Padierna"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Miguel Hidalgo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"2 de Octubre"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"3 Fuentes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"A.M.S.A"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Ampliaci�n Fuentes del Pedregal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Ampliaci�n Isidro Fabela"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Arboledas del Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Arenal de Guadalupe"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Arenal Tepepan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Atocpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Barrio de Caramag�ey"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Barrio del Ni�o Jes�s"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Barrio El Capul�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Barrio El Truenito"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Barrio La Fama"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Barrio La Lonja"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Barrio San Fernando"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Belisario Dom�nguez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Belvedere Ajusco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Bosques del Pedregal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"CAmara Nacional de la Industria de la Construcci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Cantera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Cantera Puente de Piedra"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Chichicaspatl"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Chimalcoyotl"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Chimalli"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Chimilli"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Club de Golf M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Colinas del Ajusco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Colinas del Bosque"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Comuneros de Santa �rsula"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Cruz del Farol"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Cuchilla de Padierna"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Cuitlahuac"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Cultura Maya"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Cumbres de Tepetongo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Delegaci�n Pol�tica Tlalpan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Divisadero"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Dolores Tlali"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Dr. Ignacio ChAvez INFONAVIT"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Ejidos de San Pedro M�rtir"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"El Charco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"El Mirador"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Estaci�n Ajusco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Estrella Mora"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Ex Hacienda Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Ex Hacienda San Juan de Dios"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Floresta Coyoac�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"FOVISSSTE Perif�rico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Fuentes Brotantes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Fuentes de Tepepan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Fuerza Armada de M�xico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Gabriel Ramos MillAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Guadalupe"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"H Colegio Militar Ni�os H�roes de Chapultepec"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Hacienda de San Juan de Tlalpan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Hacienda San Juan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Her�ico Colegio Militar"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"H�roes de 1910"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Instituto Mexicano de la Televisi�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Insurgentes Cuicuilco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Isidro Fabela"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"ISSFAM"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Jardines de Xitle"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Jardines del Ajusco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Jardines Villa Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Juventud Unida"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"La Chinita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"La Joya"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"La Magdalena Petlacalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"La Magueyera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"La Palma"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"La Primavera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"La Quinta"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Las T�rtolas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Lomas de Cuilotepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Lomas de Padierna"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Lomas de Padierna Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Lomas de Tepemecatl"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Lomas del Pedregal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Lomas del Pedregal Framboyanes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Lomas Hidalgo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Los Encinos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Los Volcanes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Loter�a Nacional"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Luis Donaldo Colosio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Magisterial"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Magisterial Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Mar�a Esther Zuno de Echeverr�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Mesa de los Hornos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Miguel Hidalgo 1A Seccion"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Miguel Hidalgo 2A Secci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Miguel Hidalgo 3A Secci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Mirador"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Mirador del Valle"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Movimiento Organizado de Tlalpan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Narciso Mendoza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Nueva Oriental Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Nuevo Renacimiento de Axalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Paraje 38"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Parque del Pedregal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Parque Nacional Bosque del Pedregal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Parres El Guarda"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Paseos de Mendoza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Pedregal Chichicaspatl"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Pedregal de las Aguilas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Pedregal de San Nicol�s"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Pedregal de Santa �rsula Xitla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Pedregal del Lago"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"PEMEX"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Perif�rico"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Pe�a Pobre"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Plan de Ayala"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Popular Santa Teresa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Prado Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Pueblo Quieto"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Rancho los Colorines"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Rancho Viejo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Real del Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Residencial Acoxpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Residencial Hacienda Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Residencial Miramontes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Residencial Pedregal Picacho"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Residencial Villa Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Residencial Villa Prado Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Retornos del Pedregal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Rinconada Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Rinconada El Mirador"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Rinconada Las Hadas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Rinc�n de San Juan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Rinc�n del Pedregal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"R�mulo Sanchez Mireles"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"San Andr�s Totoltepec"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"San Bartolo El Chico"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"San Buenaventura"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"San Jorge"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"San Juan Tepeximilpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"San Lorenzo Huipulco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"San Miguel Ajusco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"San Miguel Topilejo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"San Miguel Xicalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"San Nicol�s 2"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"San Pedro Ap�stol"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"San Pedro M�rtir"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"San Pedro M�rtir FOVISSSTE"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Santa �rsula Xitla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Santo Tomas Ajusco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Sant�sima Trinidad"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Sauzales Cebadales"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Secretaria del Trabajo y Previsi�n Social"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Six Flags (Reino Aventura)"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Solidaridad"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Tecorral"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Tenorios"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Tenorios FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Tenorios INFONAVIT"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Tepetitla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Tepeximilpa La Paz"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Texcaltenco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Tlalcoligia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Tlalmille"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Tlalpan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Tlalpan Centro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Tlalpuente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Tlaxcaltenco La Mesa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Toriello Guerra"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Torres de Padierna"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Torres Tlalpan FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Urbano Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Valle de Tepepan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Valle Escondido"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Valle Verde o Lomas Verdes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Verano"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Vergel Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Vergel de Coyoac�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Vergel del Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Vergel Tlalpan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Villa Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Villa Cuemanco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Villa Cuemanco INFONAVIT"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Villa del Puente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Villa del Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Villa L�zaro C�rdenas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Villa Ol�mpica"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Villa Royale"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Villa Tlalpan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Villa Valbadena"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Vistas del Pedregal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Viveros CoatectlAn"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Zacat�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Zacayucan Pe�a Pobre"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tlalpan","COLONIAS":"Zapote"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Los Olivos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Miguel Hidalgo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Santa Ana Poniente"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Agr�cola Metropolitana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Las Arboledas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"3 de Mayo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Ampliaci�n Jos� L�pez Portillo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Ampliaci�n La Conchita"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Ampliaci�n Los Olivos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Ampliaci�n Santa Catarina"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Ampliaci�n Selene"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Ampliaci�n Zapotitla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Aurorita"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Benito Quezada"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Ca�ada"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Chichilaula"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Cooperativa C.I.A.N.I."}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Del Mar"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Delegaci�n Pol�tica Tlahuac"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"El Mirador"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"El Rosario"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"El Triangulo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Francisco Villa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Geovillas de Xochimilco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Granjas Cabrera"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Guadalupe Tlaltenco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"G�minis"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Hombres de la Reforma"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Jaime Torres Bodet"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Jardines del Llano"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Asunci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Concepci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Conchita Zapotitl�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Draga"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Estaci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Guadalupe"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Habana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Herradura"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Joyita"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Loma"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Lupita"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Magdalena"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Mesa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Nopalera"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Orilla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Poblanita"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Soledad"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"La Turba"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Los Reyes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Los Volcanes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"L�pez Portillo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Manuel Gutierrez Najera"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Manuel M L�pez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Nueva Tenochtitl�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Ojo de Agua"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Olivar Santa Mar�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Pe�a Alta"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Potrero del Llano"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Quiahuatla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"San Agustin"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"San Andr�s"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"San Bartolom�"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"San Francisco Apolocalco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"San Francisco Tlaltenco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"San Isidro"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"San Jos�"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"San Juan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"San Mateo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"San Miguel"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"San Nicol�s Tetelco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"San Sebasti�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Santa Ana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Santa Ana Centro"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Santa Ana Norte"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Santa Ana Sur"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Santa Cecilia"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Santa Cruz"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Santiago"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Santiago Centro"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Santiago Norte"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Santiago Sur"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Selene"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Tempiluli"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Teozoma"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Tepantitlamilco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Tierra Blanca"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Tl�huac 2"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Villa Centro Americana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Villa Tlatempa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Villas Trabajadores del Gobierno del Distrito Federal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Zacatenco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Zapotitla"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Tl�huac","COLONIAS":"Zapotitl�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Jard�n Balbuena"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Moctezuma"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Artes Graficas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Popular Rastro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Romero Rubio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"10 de Mayo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"1� de Mayo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"20 de Noviembre"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"24 de Abril"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"4 Arboles"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"5o Tramo 20 de Noviembre"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"7 de Julio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Aar�n SAenz"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Adolfo L�pez Mateos"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"AeronAutica Militar"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Alvaro Obreg�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Ampliaci�n 20 de Noviembre"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Ampliaci�n Aviaci�n Civil"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Ampliaci�n Caracol"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Ampliaci�n Michoacana"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Ampliaci�n Penitenciaria"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Ampliaci�n Sim�n Bol�var"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Ampliaci�n Venustiano Carranza"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Aquiles Serd�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Arenal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Aviaci�n Civil"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Azteca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Candelaria de los Patos FOVISSSTE"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Caracol"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Conjunto Boturini Inverlat"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Cuchilla Pantitlan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"DamiAn Carmona"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Del Parque"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Delegaci�n Pol�tica Venustiano Carranza"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Emiliano Zapata"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Emilio Carranza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Escuela de Tiro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Federal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Felipe Angeles"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Fivipor"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"General Ignacio Zaragoza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Industrial Puerto A�reo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Jamaica"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Janitzio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Lic. Benito Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Lorenzo Boturini"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Magdalena Mixiuhca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Merced Balbuena"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Michoacana"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Miguel Hidalgo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Morelos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Nicol�s Bravo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Penitenciaria"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Pensador Mexicano"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Pe��n de los Ba�os"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Progresista"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Puebla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Pueblo de La Magdalena Mixiuhca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Revoluci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Santa Cruz Aviaci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Sevilla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Sim�n Bol�var"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Tres Mosqueteros"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Tribunales de La Suprema Corte de Justicia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Unidad Kennedy"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Valent�n G�mez Farias"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Valle G�mez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Venustiano Carranza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Zaragoza Bah�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Venustiano Carranza","COLONIAS":"Zona Centro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Santa Mar�a Tepepan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Jardines del Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio 18"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Lorenzo La Cebada"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Bosque Residencial del Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Aldama"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Ampliaci�n Nativitas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Ampliaci�n San Marcos Norte"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Ampliaci�n Tepepan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Arcos del Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Atocle"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Axcallote"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"A�o de Ju�rez"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio 3 de Mayo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Ahualapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Apatlaco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Bel�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Calpulco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Calyequita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Chapultepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio del Puente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio El Calvario"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio El Rosario"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio La Asunci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio La Candelaria"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio La Concepci�n Tlacoapa"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio La Gallera"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio La Guadalupana"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio La Guadalupita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio La Planta"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio La Sant�sima"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Las Cruces"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Las Flores"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Los Reyes"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Ni�os H�roes"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Pocitos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio San Andr�s"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio San Antonio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio San Crist�bal"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio San Diego"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio San Esteban"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio San Jos�"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio San Juan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio San Juan Minas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio San Juan Moyotepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio San Lorenzo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio San Marcos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio San Pedro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio San Sebasti�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Santa Cecilia"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Santa Crucita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Tetitla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Barrio Xaltocan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Caltongo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Cerrillos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Cerro Grande"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Club Monte Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Cristo Rey"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Del Carmen"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Delegaci�n Pol�tica Xochimilco"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Divisi�n del Norte INFONAVIT"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"El Arenal"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"El Capul�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"El Cedral"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"El Jazm�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"El Mirador"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"El Sacrificio"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"El Teoca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Guadalupita"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Huichapan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Jardines de Huacahuasco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"La Ca�ada"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"La Concha"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"La Herradura Hueytepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"La Noria"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Las Animas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Las GArgolas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Las Mesitas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Las Peritas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Lomas de Nativitas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Lomas de Tonalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Loreto y Pe�a Pobre"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Los Capulines"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Los Geranios"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Mercado de Flores Plantas y Hortalizas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Misiones de La Noria"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Nativitas"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Nativitas INFONAVIT"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Nueva Tenochtitl�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Ocotitla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Paraje Tlachiultepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Paraje Tlalatlaco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Paseos del Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Pedregal de San Francisco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Potrero de San Bernardino"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Potreros de La Noria"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Quirino Mendoza"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Rancho Tejomulco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Reclusorio Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Rinconada Coapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Rinconada del Sur"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Rinconada del Teoca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Rinconada San Pablo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Rosario Tlali"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Andr�s Ahuayucan"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Bartolo El Chico"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Felipe"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Francisco Chiquimola"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Francisco Tlalnepantla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Gregorio Atlapulco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Isidro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Jer�nimo"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Jos� Obrero"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Jos� Zacatepec"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Juan de los Lagos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Juan Tepepan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Lorenzo Atemoaya"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Lucas Oriente"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Lucas Xochimanca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Luis Tlaxialtemalco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Marcos"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"San Mateo Xalpa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Santa Cecilia Tepetlapa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Santa Cruz Acalpixca"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Santa Cruz Chavarrieta"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Santa Cruz de Guadalupe"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Santa Cruz Xochitepec"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Santa In�s"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Santa Mar�a Nativitas"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Santiago Tepalcatlalpan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Santiaguito"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Tablas de San Lorenzo"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Tecacalanco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Tecalipa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Tecoloxtitla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Tetlatilco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Texmic"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Tierra Nueva"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Tiziclipa"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Tlaltepetla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Tlaxopan"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Tototitla"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Valle de Santa Mar�a"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Villa San Isidro"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Villa Xochimilco"},
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Xochimilco Corporaci�n"}
+    ,
+    {"ESTADOS":"Ciudad de Mexico","MUNICIPIOS":"Xochimilco","COLONIAS":"Xochipilli"}
+    ]
+    
